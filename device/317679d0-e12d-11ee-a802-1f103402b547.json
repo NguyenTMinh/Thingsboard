@@ -29,7 +29,7 @@
       "id" : "317679d0-e12d-11ee-a802-1f103402b547"
     },
     "label" : "",
-    "name" : "d1",
+    "name" : "d1 edit",
     "softwareId" : null,
     "type" : "default"
   },
@@ -38,6 +38,7 @@
     "credentialsType" : "ACCESS_TOKEN",
     "credentialsValue" : null
   },
+  "relations" : [ ],
   "attributes" : {
     "SERVER_SCOPE" : [ {
       "booleanValue" : false,
