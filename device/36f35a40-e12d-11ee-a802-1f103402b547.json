@@ -22,14 +22,17 @@
       "entityType" : "DEVICE_PROFILE",
       "id" : "c4d74ba0-e119-11ee-a9a5-a1ed5fd41f17"
     },
-    "externalId" : null,
+    "externalId" : {
+      "entityType" : "DEVICE",
+      "id" : "36f35a40-e12d-11ee-a802-1f103402b547"
+    },
     "firmwareId" : null,
     "id" : {
       "entityType" : "DEVICE",
       "id" : "36f35a40-e12d-11ee-a802-1f103402b547"
     },
     "label" : "",
-    "name" : "d2",
+    "name" : "d2 edited",
     "softwareId" : null,
     "type" : "default"
   },
@@ -38,7 +41,6 @@
     "credentialsType" : "ACCESS_TOKEN",
     "credentialsValue" : null
   },
-  "relations" : [ ],
   "attributes" : {
     "SERVER_SCOPE" : [ {
       "booleanValue" : false,
@@ -47,6 +49,14 @@
       "key" : "active",
       "lastUpdateTs" : 1710329480704,
       "longValue" : null,
+      "strValue" : null
+    }, {
+      "booleanValue" : null,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "inactivityAlarmTime",
+      "lastUpdateTs" : 1710330090388,
+      "longValue" : 1710330090387,
       "strValue" : null
     } ],
     "SHARED_SCOPE" : [ ]
